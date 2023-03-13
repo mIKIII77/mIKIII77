@@ -1,11 +1,11 @@
-<h1 align="center">Hi there, I am Mikhail Karapetyan <a href="https://github.com/Bouaskaoun" target="_self">
+<h1 align="center">Hi there, I am Mikhail Karapetyan <a href="https://github.com/mIKIII77" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a></h1>
 
 
 - 🎒 I'm a second-year graduate student.
 - 💻 I'm majoring in computer science.
-- 📚 I'm currently learning HTML/CSS/JavaScript, Django, and React.
+- 📚 I'm currently learning HTML/CSS/JavaScript, Django, Next.JS and React.JS
 
 <h2 align="center">👨‍💻 Programming Languages</h2>
 
