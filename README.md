@@ -5,7 +5,7 @@
 
 - 🎒 I'm a second-year graduate student.
 - 💻 I'm majoring in computer science.
-- 📚 I'm currently learning HTML/CSS/JavaScript, Django, Next.JS and React.JS
+- 📚 I'm currently learning HTML/CSS/JavaScript, Django, React and Swift.
 
 <h2 align="center">👨‍💻 Programming Languages</h2>
 
