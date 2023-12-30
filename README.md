@@ -5,7 +5,7 @@
 
 - 🎒 I'm a third-year graduate student
 - 💻 I'm majoring in computer science
-- 📚 I'm currently learning .NET
+- 📚 I'm currently learning JavaScript
 
 <h2 align="center">👨‍💻 Programming Languages</h2>
 
@@ -13,7 +13,6 @@
     <a href="https://github.com/mIKIII77"><img alt="Swift" src="https://img.shields.io/badge/Swift%20&%20Swift%20UI%20-%23FF5722.svg?logo=Swift&logoColor=white"></a>
     <a href="https://github.com/mIKIII77"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/mIKIII77"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/mIKIII77"><img alt="C#" src="https://img.shields.io/badge/C%20Sharp%20-%239b4f98.svg?logo=csharp&logoColor=white"></a>
 
 <h2 align="center">🤝 Connect with me </h2>
 <p align="center">
