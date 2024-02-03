@@ -10,9 +10,15 @@
 <h2 align="center">👨‍💻 Programming Languages</h2>
 
 <p align="center">
-    <a href="https://github.com/mIKIII77"><img alt="Swift" src="https://img.shields.io/badge/Swift%20&%20Swift%20UI%20-%23FF5722.svg?logo=Swift&logoColor=white"></a>
-    <a href="https://github.com/mIKIII77"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/mIKIII77"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/mIKIII77"><img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=flat-square"></a>
+    <a href="https://github.com/mIKIII77"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square"></a>
+    <a href="https://github.com/mIKIII77"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square"></a>
+    <a href="https://github.com/mIKIII77"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square"></a>
+    <a href="https://github.com/mIKIII77"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square"></a>
+    <a href="https://github.com/mIKIII77"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff&style=flat-square"></a>
+    <a href="https://github.com/mIKIII77"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=flat-square"></a>
+    <a href="https://github.com/mIKIII77"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat-square"></a>
+
 
 <h2 align="center">🤝 Connect with me </h2>
 <p align="center">
