@@ -10,6 +10,7 @@
 <h2 align="center">👨‍💻 Programming Languages</h2>
 
 <p align="center">
+    <a href="https://github.com/mIKIII77"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=fff&style=flat-square"></a>
     <a href="https://github.com/mIKIII77"><img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=flat-square"></a>
     <a href="https://github.com/mIKIII77"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square"></a>
     <a href="https://github.com/mIKIII77"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square"></a>
