@@ -23,7 +23,6 @@
 
 <h2 align="center">🤝 Connect with me </h2>
 <p align="center">
-	<a href="https://www.karap.fr"><img img src="https://img.shields.io/badge/www.karap.fr-c14438?style=flat&logo=safari&logoColor=white&color=2a1639" alt="Karapetyan Mikhail Website"/></a>
 	<a href="https://www.linkedin.com/in/mikhail-karapetyan-b8243119a/"><img img src="https://img.shields.io/badge/-Mikhail_KARAPETYAN-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="mailto:mikhail@karap.fr"><img src="https://img.shields.io/badge/-Contact_me_via_Mail-c14438?style=flat&logo=Gmail&logoColor=white&color=BB001B" alt="LinkedIn"/></a>
 </p>
@@ -38,5 +37,3 @@
 <hr>
   
 [mIKIII77](https://github.com/mIKIII77)
-
-Last Edited on: 26/11/2023 - Second version  
